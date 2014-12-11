@@ -1,0 +1,47 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Quiz - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x4009 /fo"Release/Quiz.res" /d "NDEBUG" /d "_AFXDLL" "G:\Quiz\Quiz.rc"" 
+Creating temporary file "C:\Users\ADMIN\AppData\Local\Temp\RSPEC1A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/Quiz.pdb" /machine:I386 /out:"Release/Quiz.exe" 
+.\Release\aptitude.obj
+.\Release\commandbutton.obj
+.\Release\crystalctrl.obj
+.\Release\font.obj
+.\Release\GKDlg.obj
+.\Release\hardware.obj
+.\Release\labelcontrol.obj
+.\Release\langc.obj
+.\Release\langjava.obj
+.\Release\picture1.obj
+.\Release\progress_bar.obj
+.\Release\Quiz.obj
+.\Release\QuizDlg.obj
+.\Release\result.obj
+.\Release\rowcursor.obj
+.\Release\StdAfx.obj
+.\Release\Quiz.res
+.\Release\shockwaveflash.obj
+.\Release\select_quiz.obj
+.\Release\menu_quiz.obj
+.\Release\instructions.obj
+.\Release\about_us.obj
+]
+Creating command line "link.exe @C:\Users\ADMIN\AppData\Local\Temp\RSPEC1A.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Quiz.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
